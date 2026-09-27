@@ -20,9 +20,9 @@
 ## 部署运行
 1. 执行sql/mall_tiny.sql，导入数据库表结构
 2. 修改application-dev.yml，配置本地MySQL账号密码
-3. 启动 MallTinyApplication.java
+3. 启动 MallTinyApplication.java或者终端执行 `mvn spring-boot:run` 启动项目
 4. 访问 Swagger文档：http://localhost:8080/swagger-ui/index.html
-5. 后台前端页面：打开static下的html页面
+5. 访问博客后台前端页面：http://localhost:8080/index.html
 
 ## 项目亮点
 - 使用JWT实现登录鉴权
