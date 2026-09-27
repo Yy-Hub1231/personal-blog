@@ -21,7 +21,7 @@
 1. 执行sql/mall_tiny.sql，导入数据库表结构
 2. 修改application-dev.yml，配置本地MySQL账号密码
 3. 启动 MallTinyApplication.java
-4. 访问 Swagger文档：http://localhost:8080/swagger-ui.html
+4. 访问 Swagger文档：http://localhost:8080/swagger-ui/index.html
 5. 后台前端页面：打开static下的html页面
 
 ## 项目亮点
